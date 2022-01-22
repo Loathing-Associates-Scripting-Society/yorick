@@ -2,6 +2,7 @@ import Section from "../components/Section";
 import ColdMedicineCabinet from "./resources/ColdMedicineCabinet";
 import CommerceGhost from "./resources/CommerceGhost";
 import CursedMagnifyingGlass from "./resources/CursedMagnifyingGlass";
+import DaylightShavingsHelmet from "./resources/DaylightShavingsHelmet";
 import FreeFights from "./resources/FreeFights";
 import UndergroundFireworksShop from "./resources/UndergroundFireworksShop";
 import PowerfulGlove from "./resources/PowerfulGlove";
@@ -17,6 +18,7 @@ const ResourceSection = () => (
     <CosmicBowlingBall />
     <PowerfulGlove />
     <CursedMagnifyingGlass />
+    <DaylightShavingsHelmet />
     <UndergroundFireworksShop />
     <CommerceGhost />
     <IndustrialFireExtinguisher />
