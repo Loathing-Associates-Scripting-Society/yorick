@@ -12,6 +12,7 @@ import IndustrialFireExtinguisher from "./resources/IndustrialFireExtinguisher";
 import JuneCleaver from "./resources/JuneCleaver";
 import Melodramedary from "./resources/Melodramedary";
 import PowerfulGlove from "./resources/PowerfulGlove";
+import UnbreakableUmbrella from "./resources/UnbreakableUmbrella";
 import UndergroundFireworksShop from "./resources/UndergroundFireworksShop";
 
 const ResourceSection = () => (
@@ -30,6 +31,7 @@ const ResourceSection = () => (
     <CommerceGhost />
     <IndustrialFireExtinguisher />
     <JuneCleaver />
+    <UnbreakableUmbrella />
   </Section>
 );
 
