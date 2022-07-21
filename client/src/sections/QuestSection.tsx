@@ -1,7 +1,8 @@
 import Section from "../components/Section";
 import Level1 from "./quests/Level1";
 import Level10 from "./quests/Level10";
-import Level11BlackForest from "./quests/Level11BlackForest";
+import Level11BlackForest from "./quests/Level11/Level11BlackForest";
+import Level11SpookyTemple from "./quests/Level11/Level11SpookyTemple";
 import Level2 from "./quests/Level2";
 import Level3 from "./quests/Level3";
 import Level4 from "./quests/Level4";
@@ -21,6 +22,7 @@ const QuestSection = () => (
     <Level7 />
     <Level8 />
     <Level10 />
+    <Level11SpookyTemple />
     <Level11BlackForest />
   </Section>
 );
